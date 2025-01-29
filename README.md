@@ -1,4 +1,4 @@
-# PPS-Unidad1-Actividad3-JcMartin
+# PPS-Unidad1Actividad3-Virgilio
 Actividad 3 de la Unidad 1 de Puesta en Producción Segura. Tabajaremos con pruebas en Python.
 
 Tenemos varios objetivos:
